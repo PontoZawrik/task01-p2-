@@ -12,30 +12,30 @@
 
 .card-div {
     background-color: rgb(224,224,224);
+    display: inline-block;
 
     height: 50px;
-    width: 100px;
+    width: 90px;
 
-    margin-right: 10px;
+    margin-right: 5px;
 
     text-align: center;
 }
 
 img {
-    height: 40px;
-    width: 40px;
+    height: 35px;
+    width: 35px;
 
-    margin-top:;
+    margin-top: 5px;
 }
 
 .red {
     color: red;
-
-    height: 40px;
-
+    font-size: 35px;
     display: inline;
 }
 
 .black {
-    height: 40px;
+    font-size: 35px;
+    display: inline;
 }
